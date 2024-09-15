@@ -37,7 +37,7 @@ A Flutter application that displays a list of products with integrated search fu
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/flutter-product-list-app.git
+git clone https://github.com/Sireat/flutter_ecommerce.git
 cd flutter-product-list-app
 ```
 
