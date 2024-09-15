@@ -104,3 +104,10 @@ Contributions are welcome! Please follow these steps to contribute:
 5. Create a pull request to merge your changes into the main repository.
 
 ## Smple screenshoots
+
+![Alt text](./screenshoot/1.png)
+![Alt text](./screenshoot/2.png)
+![Alt text](./screenshoot/3.png)
+![Alt text](./screenshoot/4.png)
+![Alt text](./screenshoot/5.png)
+![Alt text](./screenshoot/6.png)
